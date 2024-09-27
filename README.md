@@ -1,2 +1,2 @@
 # Fibonacci
-Verifica se o número pertence a sequência de Fibonacci.
+Verifica se o número pertence a sequência de Fibonacci em C#.
